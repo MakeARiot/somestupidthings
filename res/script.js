@@ -9,4 +9,4 @@
 // }
 // alert(pow())
 
-// alert('На русском')
+// alert('Привет fugdtygdiurgy')
