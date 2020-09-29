@@ -1,0 +1,12 @@
+{
+    "posts":[
+        {"id":1, "name":"some name"},
+        {"id":2, "name":"some name"},
+        {"id":3, "name":"some name"}
+    ],
+
+    "something":[
+        {"id":1, "name":"some name"},
+        {"id":2, "name":"some name"}
+    ]
+}
